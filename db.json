@@ -1,0 +1,158 @@
+{
+    "dashbaord": {
+        "posts": 7,
+        "liks": 100,
+        "followers": 20,
+        "following": 66
+    },
+    "news": [
+        {
+            "id": 1,
+            "title": "News Artical 1",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "category": "blockchain"
+        },
+        {
+            "id": 2,
+            "title": "News Artical 2",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "category": "hardwate"
+        },
+        {
+            "id": 3,
+            "title": "News Artical 3",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "category": "ai"
+        },
+        {
+            "id": 4,
+            "title": "News Artical 4",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "category": "blockchain"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Mouse Logi Tec max22",
+            "colors": ["black", "white", "gray"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": true,
+            "stock": 12,
+            "image": "1.png",
+            "sku": "MD3S290",
+            "price": "72.80",
+            "oldPrice": "56.99",
+            "reviews": 4
+        },
+        {
+            "id": 2,
+            "title": "Kebord Magic SL33",
+            "colors": ["black", "gray", "yellow"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": true,
+            "stock": 12,
+            "sku": "KMS7890",
+            "image": "7.png",
+            "price": "43.99",
+            "oldPrice": "61.99",
+            "reviews": 4
+        },
+        {
+            "id": 3,
+            "title": "Microphoe DL4000X",
+            "colors": ["white", "gray", "yellow"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": false,
+            "stock": 0,
+            "image": "3.png",
+            "sku": "KMS6543",
+            "price": "33.99",
+            "oldPrice": "90.99",
+            "reviews": 4
+        },
+        {
+            "id": 4,
+            "title": "Headset Logi Streemer",
+            "colors": [ "red", "blue", "white"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": true,
+            "stock": 4,
+            "image": "4.png",
+            "price": "45.6",
+            "sku": "KMS7890",
+            "oldPrice": "55.0",
+            "reviews": 4
+        },
+        {
+            "id": 5,
+            "title": "logo Mini MAX4",
+            "colors": [ "white", "gray", "black"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": true,
+            "stock": 4,
+            "image": "5.webp",
+            "sku": "KMS3322",
+            "price": "45.6",
+            "oldPrice": "55.0",
+            "reviews": 4
+        },
+        {
+            "id": 6,
+            "title": "Logi Web Conferance",
+            "colors": [ "green", "blue", "yellow", "red"],
+            "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, est excepturi voluptates accusantium culpa, molestiae distinctio veniam, dolores soluta nobis nihil explicabo? Ut illum error, quis quisquam placeat modi iure!",
+            "availabilty": true,
+            "stock": 4,
+            "image": "6.png",
+            "sku": "KMS73987",
+            "price": "45.6",
+            "oldPrice": "55.0",
+            "reviews": 4
+        }
+    ],
+    "eventts": [
+        {
+            "id": 1,
+            "title": "Event 1",
+            "discription": "Description 1",
+            "category": "sport",
+            "date": "April 25"
+        },
+        {
+            "id": 2,
+            "title": "Event 2",
+            "discription": "Description 2",
+            "category": "technology",
+            "date": "April 25"
+        },
+        {
+            "id": 3,
+            "title": "Event 3",
+            "discription": "Description 3",
+            "category": "food",
+            "date": "April 25"
+        },
+        {
+            "id": 4,
+            "title": "Event 4",
+            "discription": "Description 4",
+            "category": "life style",
+            "date": "April 25"
+        },
+        {
+            "id": 5,
+            "title": "Event 5",
+            "discription": "Description 5",
+            "category": "economics",
+            "date": "April 25"
+        },
+        {
+            "id": 6,
+            "title": "Event 6",
+            "discription": "Description 6",
+            "category": "inovation",
+            "date": "April 25"
+        }
+    ]
+}
