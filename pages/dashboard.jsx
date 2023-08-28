@@ -14,7 +14,7 @@ const Dashboard = () => {
 	useEffect(() => {
 		async function fetchDashboardData() {
 			try {
-				const res = await axios.get('http://localhost:4000/dashbaord');
+				const res = await axios.get('https://next-server-two.vercel.app/dashbaord');
 				const data = res.data;
 				setdashbaordData(data);
 			} 
